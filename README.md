@@ -18,7 +18,6 @@
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
-   [My Portfolio](https://portfolio-kae6.onrender.com/)
  </div>
  
 <div align="center"> 
@@ -28,7 +27,7 @@
   <a href="https://www.linkedin.com/in/ly-duc-anh-0a6851247/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://github.com/DUC-ANH-LY" target="_blank">
+  <a href="https://portfolio-kae6.onrender.com/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
